@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# VS Code
+.vscode/
+
+# Data folder (your transcripts)
+data/
