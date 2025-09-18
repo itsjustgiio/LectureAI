@@ -15,7 +15,10 @@
       ]
     },
     "New Class": {
-      "folders": {}
+      "folders": {},
+      "notes": [
+        "Test Notes 1"
+      ]
     }
   }
 }
