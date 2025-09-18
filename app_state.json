@@ -1,0 +1,21 @@
+{
+  "classes": {
+    "Theory": {
+      "days": [],
+      "folders": {}
+    },
+    "Test Class": {
+      "folders": {
+        "Lecture": [
+          "Day 1"
+        ]
+      },
+      "notes": [
+        "Notes 1"
+      ]
+    },
+    "New Class": {
+      "folders": {}
+    }
+  }
+}
